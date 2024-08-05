@@ -1,4 +1,4 @@
-# Web Service Cambio de destino en Remito
+# API para consultas generales
 
 Web Service para cambiar realizar consultas a Ipoint sobre movimientos de caja, indicando parámetros de fecha de inicio y fin.
 
